@@ -9,17 +9,12 @@ All solutions are done with Node.js
 [Download node.js](https://nodejs.org/en/download/) and install
 
 Clone the repo
-'''
-git clone https://github.com/adamtoad/adventofcode2018.git
-'''
+> git clone https://github.com/adamtoad/adventofcode2018.git
 
 Navigate to repo
-'''
-cd adventofcode2018
-'''
+> cd adventofcode2018
+
 
 Run desired solution
-''''
-node dayN/dayN.js
-'''
+> node dayN/dayN.js
 
